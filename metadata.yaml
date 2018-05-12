@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33923'
     url: http://www.gutenberg.org/2009/agents/33923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30231#The-Vote-That-Made-the-President
 gutenberg_issued: '2009-10-11'
 gutenberg_type: Text
 identifiers:
